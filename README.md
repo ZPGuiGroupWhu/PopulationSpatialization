@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PopulationSpatialization
 
 
@@ -33,3 +34,6 @@ In populationSpatialization.py, you need to set RESOLUTION, N_ROW and N_COLUMN f
 
 ## Result
 Result contains the predicted population of three resolutions (500m, 200m and 100m).The id and the predicted population of the pixel are listed in the file.
+=======
+# PopulationSpatialization
+>>>>>>> 4a4ae98319efd5f1c49261908170bf1f118cc22b
