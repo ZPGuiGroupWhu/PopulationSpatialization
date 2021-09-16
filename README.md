@@ -33,3 +33,6 @@ In populationSpatialization.py, you need to set RESOLUTION, N_ROW and N_COLUMN f
 
 ## Result
 Result contains the predicted population of three resolutions (500m, 200m and 100m).The id and the predicted population of the pixel are listed in the file.
+
+## Ye's model
+We have reproduced Ye's model and generated population spatialization results based on the aforementioned modeling data in Wuhan. The code and data are also available in this file.
